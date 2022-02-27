@@ -5,7 +5,7 @@ Vijay works in an IT company for last 5 years, he always needs extra money to sp
 The icici bank want to use the customer data to check the eligibility of getting a credit card. The bank will monitor all the parameters such as the Employee history of the customer which are the previous companies he worked for , what is his current salary, what is his designation, how frequently he changes the job and the credit score of the customer, All the data related to the customer is available in the the MySQL database now the bank hires a ETL developer and wants the data to be loaded in the oracle database and to know the previous designations he was working on. The ETL developer decided to use Informatica for the above problem and used SCD 2 implementation.
 
 ## Source Data in MySQL Server
-
+![alt_text](https://github.com/shreepadparakhi/Usecase1_CustomerLoyaltyPrograme/blob/main/ERD.png?raw=true)
 ## Target Data in Oracle Server
 
 ## Complete ETL Diagram
